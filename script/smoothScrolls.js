@@ -1,4 +1,4 @@
-const SPEED = 1
+const SPEED = 0.5
 const scrolled = event => {
     event.preventDefault()
     const target = event.target
